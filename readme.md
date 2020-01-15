@@ -1,0 +1,2 @@
+Thanks to cfoulston for the reorderable list https://github.com/cfoulston/Unity-Reorderable-List
+Achievement system made with the Zee Vasilyev tutorial https://www.youtube.com/playlist?list=PLFY3TFPG0dkomvWyb2fcPeqDSSvIO0NYb

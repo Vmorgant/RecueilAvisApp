@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d04b1bb15842c1647b175468fc3093fe, type: 3}
+  m_Name: Achievement Database
+  m_EditorClassIdentifier: 
+  achievements:
+  - id: 0
+    title: Le premier mais pas le dernier
+  - id: 1
+    title: "Moi aussi j'\xE9tais aux portes ouvertes autrefois... Et puis j'ai pris
+      une fl\xE8che dans le genou"
+  - id: 2
+    title: Never gonna give you up
+  - id: 3
+    title: "On a la r\xE9ponse !"
+  - id: 4
+    title: Fus ro dah
+  - id: 5
+    title: 'It''s over 1 hundred '
+  - id: 6
+    title: The cake is a lie
+  - id: 7
+    title: 'Cours ensipouic, cours ! '
+  - id: 8
+    title: Matinal
+  - id: 9
+    title: Manger c'est tricher
+  - id: 10
+    title: C'est l'heure du gouter
+  - id: 11
+    title: Le dernier rush
+  - id: 12
+    title: "Le papier c'est d\xE9mod\xE9"

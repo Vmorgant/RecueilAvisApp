@@ -7,5 +7,6 @@ public class achievement
 {
     public string id;
     public string title;
+    public string description;
 
 }

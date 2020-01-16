@@ -13,30 +13,11 @@ MonoBehaviour:
   m_Name: Achievement Database
   m_EditorClassIdentifier: 
   achievements:
-  - id: 0
-    title: Le premier mais pas le dernier
-  - id: 1
-    title: "Moi aussi j'\xE9tais aux portes ouvertes autrefois... Et puis j'ai pris
-      une fl\xE8che dans le genou"
-  - id: 2
-    title: Never gonna give you up
-  - id: 3
-    title: "On a la r\xE9ponse !"
-  - id: 4
-    title: Fus ro dah
-  - id: 5
-    title: 'It''s over 1 hundred '
-  - id: 6
-    title: The cake is a lie
-  - id: 7
-    title: 'Cours ensipouic, cours ! '
-  - id: 8
-    title: Matinal
-  - id: 9
-    title: Manger c'est tricher
-  - id: 10
-    title: C'est l'heure du gouter
-  - id: 11
-    title: Le dernier rush
-  - id: 12
-    title: "Le papier c'est d\xE9mod\xE9"
+    array:
+    - id: Premier
+      title: Le premier mais pas le dernier
+      description: "1 avis a \xE9t\xE9 donn\xE9"
+    - id: Fleche
+      title: "Moi aussi j'\xE9tais aux portes ouvertes autrefois... Et puis j'ai pris
+        une fl\xE8che dans le genou"
+      description: "10 avis ont \xE9t\xE9 donn\xE9s"
